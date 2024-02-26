@@ -1,6 +1,6 @@
-## Hi y'all! 👋
+## Hi there, I'm Em! 👋
 
-I'm currently learning python, back-end, automation and data science.
+I'm very new to programming but I'm learning real, real fast! :) Currently learning data science with Python.
 
 All my repos are learner repos atm:
 
@@ -13,7 +13,7 @@ All my repos are learner repos atm:
 
 ---
 
-### 👩‍💻 Are we **a professional hit**? 
+### 👩‍💻 Are we **a professional fit**? 
 
 Visit [my LinkedIn](https://www.linkedin.com/in/mirunasuru/) to see my employment history and read my posts on work related topics.
 
