@@ -1,15 +1,16 @@
 ## Hi there, I'm Em! 👋
 
-I'm very new to programming but I'm learning real, real fast! :) Currently learning data science with Python.
+I'm very new to programming but I'm learning real, real fast! :) \
+Currently learning data science essentials with Python.
 
 All my repos are learner repos atm:
 
-- two school projects:
+- I have two school projects:
   - [my duo scraper](https://github.com/emsuru/duo-scraper) shows I've got web scraping skills
   - [my randomizer](https://github.com/emsuru/openspace-organizer) shows I can write OOP code
     
-- one personal project:
-  - [my spotify grapher](https://github.com/emsuru/spotify-grapher) shows I can work with Pandas data frames for data manipulation & analysis 
+- and one personal project:
+  - [my spotify grapher](https://github.com/emsuru/spotify-grapher) shows I can work with Pandas & Matplotlib for data manipulation & viz
 
 ---
 
