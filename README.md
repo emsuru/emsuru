@@ -1,9 +1,11 @@
 ## Hi there, I'm Em! 👋
 
-I'm very new to programming but I'm learning real, real fast! :) \
-Currently learning data science essentials with Python.
+I'm very new to programming but I'm learning fast :) \
+Currently focusing on data science with Python.
 
-All my repos are learner repos atm:
+---
+
+### 🚧 All my repos are learner repos atm:
 
 - three school projects:
   - [my duo scraper](https://github.com/emsuru/duo-scraper) (solo) shows I've got web scraping skills
