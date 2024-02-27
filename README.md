@@ -5,11 +5,12 @@ Currently learning data science essentials with Python.
 
 All my repos are learner repos atm:
 
-- I have two school projects:
-  - [my duo scraper](https://github.com/emsuru/duo-scraper) shows I've got web scraping skills
-  - [my randomizer](https://github.com/emsuru/openspace-organizer) shows I can write OOP code
+- three school projects:
+  - [my duo scraper](https://github.com/emsuru/duo-scraper) (solo) shows I've got web scraping skills
+  - [my randomizer](https://github.com/emsuru/openspace-organizer) (solo) shows I can write OOP code
+  - [our data collector](https://github.com/karelrduran/Immo-Data-Collection.git) (collab) shows I can play nice & code in a team
     
-- and one personal project:
+- one personal project:
   - [my spotify grapher](https://github.com/emsuru/spotify-grapher) shows I can work with Pandas & Matplotlib for data manipulation & viz
 
 ---
