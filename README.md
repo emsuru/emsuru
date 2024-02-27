@@ -14,11 +14,11 @@ All my repos are learner repos atm:
 
 ---
 
-### 👩‍💻 Are we **a professional fit**? 
+### 👩‍💻 Are we **a good professional fit**? 
 
 Visit [my LinkedIn](https://www.linkedin.com/in/mirunasuru/) to see my employment history and read my posts on work related topics.
 
-### 📺 Are we **a cultural fit**? 
+### 📺 Are we **a good cultural fit**? 
 
 Visit [my Twitter](https://twitter.com/em_suru) to get an idea of who I am: interests, type of humour, cultural references etc.
 
