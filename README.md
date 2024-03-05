@@ -19,12 +19,14 @@ Currently focusing on data science with Python.
 
 ### 👩‍💻 Are we **a good professional fit**? 
 
+My career is twisty and spans almost 20 years. Over the eyars I changed fields but maintained a few general interests in research, design, development, human interaction.
+
 Visit [my LinkedIn](https://www.linkedin.com/in/mirunasuru/) to see my employment history and read my posts on work related topics.
 
 ### 📺 Are we **a good cultural fit**? 
 
-Visit [my Twitter](https://twitter.com/em_suru) to get an idea of who I am: interests, type of humour, cultural references etc.
-
+I'm driven by curiosity, I have many interests and I'm happiest when I have someone to talk to about them. 
+Visit [my Twitter](https://twitter.com/em_suru) to get an idea of my cultural references & interests via memes & reposts.
 <!--
 **emsuru/emsuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
