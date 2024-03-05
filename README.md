@@ -19,7 +19,7 @@ Currently focusing on data science with Python.
 
 ### 👩‍💻 Are we **a good professional fit**? 
 
-My career is twisty and spans almost 20 years. Over the eyars I changed fields but maintained a few general interests in research, design, development, human interaction.
+My career is twisty and spans almost 20 years. Over the years I changed fields but maintained professional interest in research, design, development, human interaction.
 
 Visit [my LinkedIn](https://www.linkedin.com/in/mirunasuru/) to see my employment history and read my posts on work related topics.
 
