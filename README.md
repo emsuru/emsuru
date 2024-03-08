@@ -11,9 +11,10 @@ Currently focusing on data science with Python.
   - [my duo scraper](https://github.com/emsuru/duo-scraper) (solo) shows I've got web scraping skills
   - [my randomizer](https://github.com/emsuru/openspace-organizer) (solo) shows I can write OOP code
   - [our data collector](https://github.com/karelrduran/Immo-Data-Collection.git) (collab) shows I can play nice & code in a team
+  - [my data collector](https://github.com/emsuru/charlie-01-data-collection) (solo) is a different, personal version of ☝️ where I write all the code myself
     
 - one personal project:
-  - [my spotify grapher](https://github.com/emsuru/spotify-grapher) shows I can work with Pandas & Matplotlib for data manipulation & viz
+  - [my spotify grapher](https://github.com/emsuru/spotify-grapher) (solo) shows I can work with Pandas & Matplotlib for data manipulation & viz
 
 ---
 
