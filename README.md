@@ -7,7 +7,7 @@ Currently focusing on data science with Python.
 
 ### 🚧 All my repos are learner repos atm:
 
-- three school projects:
+- four training projects:
   - [my duo scraper](https://github.com/emsuru/duo-scraper) (solo) shows I've got web scraping skills
   - [my randomizer](https://github.com/emsuru/openspace-organizer) (solo) shows I can write OOP code
   - [our data collector](https://github.com/karelrduran/Immo-Data-Collection.git) (collab) shows I can play nice & code in a team
