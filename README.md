@@ -7,14 +7,16 @@ Currently focusing on data science with Python.
 
 ### 🚧 All my repos are learner repos atm:
 
-- four bootcamp projects:
+- three small bootcamp projects:
   - [my randomizer](https://github.com/emsuru/openspace-organizer) (solo) shows I can write OOP code
   - [my duo scraper](https://github.com/emsuru/duo-scraper) (solo) shows I've got web scraping skills
   - [our data collector](https://github.com/karelrduran/Immo-Data-Collection.git) (collab) shows I can play nice & code in a team
-    
+ 
+- one big bootcamp project split in four stages:
   - [my data collector](https://github.com/emsuru/charlie-01-data-collection) (solo) shows I can build a dataset from scratch
   - [my data explorer](https://github.com/emsuru/charlie-02-data-analysis) (solo) shows I can do EDA (exploratory data analysis)
-  - [my price predictor](https://github.com/emsuru/charlie-03-ML-model-development) (solo) shows I can build an ML pipeline
+  - [my price predictor](https://github.com/emsuru/charlie-03-ML-model-development) (solo) shows I can build a reusable ML pipeline
+  - [my ML API] -- coming up -- will show I can deploy an ML model in production
     
 - one personal project:
   - [my spotify grapher](https://github.com/emsuru/spotify-grapher) (solo) shows I can work with Pandas & Matplotlib for data manipulation & viz
