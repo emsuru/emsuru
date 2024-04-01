@@ -21,7 +21,7 @@ I'm currently learning data science with Python. Have a look at my latest projec
 
 ### 👩‍💻 Are we **a good professional fit**? 
 
-My career is twisty and spans almost 20 years. I spent roughly half of these in the creative sector and half in business. I hope to spend the next decade in tech & science. Over the years I changed fields but maintained professional interest in research, design, development, human connection.
+My career is twisty and spans almost 20 years. I spent roughly half of these in the creative sector and half in business. I hope to spend the next decade in tech & science. Over the years I changed fields but maintained **professional interest** in research, design, development, human connection.
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/mirunasuru/) if you want to know more or want to work with me.  
 
@@ -29,7 +29,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/mirunasuru/) if you wa
 
 ### 📺 Are we **a good cultural fit**? 
 
-I'm driven by intellectual curiosity. I put high personal value on open knowledge for all and open access to information. In human interaction I value transparency, authenticity, direct communication and generosity. My interests are broad, some of them are: cognitive science, comedy and ethics. You can also find me on [Twitter](https://twitter.com/em_suru).
+I'm driven by intellectual curiosity. I put high personal value on open knowledge for all and open access to information. In human interaction I value transparency, authenticity, direct communication and generosity. My **personal interests** are broad, some of them are: cognitive science, comedy and ethics. You can also find me on [Twitter](https://twitter.com/em_suru).
 
 <!--
 **emsuru/emsuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
