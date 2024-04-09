@@ -6,7 +6,7 @@ I'm currently learning data science with Python. Have a look at my latest projec
   - [my data collector](https://github.com/emsuru/charlie-01-data-collection) (solo) shows I can build my own dataset for ML
   - [my data explorer](https://github.com/emsuru/charlie-02-data-analysis) (solo) shows I can do EDA (exploratory data analysis)
   - [my ML price predictor](https://github.com/emsuru/charlie-03-ML-model-development) (solo) shows I can train an ML model
-  - [my ML API](https://github.com/emsuru/charlie-04-ML-deployment) (solo) shows I can deploy an ML model via an API endpoint
+  - [my ML API](https://github.com/emsuru/charlie-04-ML-deployment) (solo) shows I can deploy an ML model & expose it via an API and a web app
 
 - A personal project:
   - [my spotify grapher](https://github.com/emsuru/spotify-grapher) (solo) shows I can work with Pandas & Matplotlib for data manipulation & viz
