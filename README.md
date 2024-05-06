@@ -29,7 +29,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/mirunasuru/) if you wa
 
 ### 📺 Are we **a good cultural fit**? 
 
-I'm driven by intellectual curiosity. I put high personal value on open knowledge for all and open access to information. In human interaction I value transparency, authenticity, direct communication and generosity. My **personal interests** are broad, some of them are: cognitive science, comedy and ethics. You can also find me on [Twitter](https://twitter.com/em_suru).
+I'm driven by intellectual curiosity and I put high personal value on open knowledge for all. In human interaction I value transparency, authenticity, direct communication and generosity. My **personal interests** are broad, some of them are: cognitive science, comedy and ethics. You can also find me on [Twitter](https://twitter.com/em_suru).
 
 <!--
 **emsuru/emsuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
