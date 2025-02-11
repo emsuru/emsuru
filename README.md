@@ -1,6 +1,6 @@
 ## Hi there, I'm Em! 👋
 
-I'm currently learning data science with Python. Have a look at my latest project repos: 
+I'm learning data science with Python. On and off, not very actively lately. Here are my very first learner repos:
 
 - End-to-end ML project, from data collection through to deployment:
   - [my data collector](https://github.com/emsuru/charlie-01-data-collection) (solo) shows I can build my own dataset for ML
@@ -11,11 +11,11 @@ I'm currently learning data science with Python. Have a look at my latest projec
 - A personal project:
   - [my spotify grapher](https://github.com/emsuru/spotify-grapher) (solo) shows I can work with Pandas & Matplotlib for data manipulation & viz
     
-- My first ever 3 Python projects:
+- My first ever python lines of code:
   - [my randomizer](https://github.com/emsuru/openspace-organizer) (solo) shows I can write OOP code
   - [my duo scraper](https://github.com/emsuru/duo-scraper) (solo) shows I've got web scraping skills
   - [our data collector](https://github.com/karelrduran/Immo-Data-Collection.git) (collab) shows I can play nice & code in a team
- 
+
 
 ---
 
