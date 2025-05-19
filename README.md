@@ -1,6 +1,6 @@
 ## Hi there, I'm Em! 👋
 
-I'm learning data science with Python. On and off, not very actively lately. Here are my very first learner repos:
+I'm here to learn data science with Python. On and off, not very actively lately. And mostly for personal (small data) projects. Here are my very first learner repos:
 
 - End-to-end ML project, from data collection through to deployment:
   - [my data collector](https://github.com/emsuru/charlie-01-data-collection) (solo) shows I can build my own dataset for ML
