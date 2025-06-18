@@ -1,6 +1,6 @@
 ## Hi there, I'm Em! 👋
 
-Later update - nvm, we got coding agents now :D 
+Update - nvm, we got coding agents now :D 
 
 ---
 
